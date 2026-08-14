@@ -1,2 +1,6 @@
 linea original
+<<<<<<< HEAD
 segundo cambio desde pad
+=======
+cambios desde la rama
+>>>>>>> developer
