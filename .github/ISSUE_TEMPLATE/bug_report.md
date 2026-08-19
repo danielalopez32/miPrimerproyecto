@@ -22,4 +22,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 - Navegador y versión: [p. ej., Chrome 87, Safari 14]
 - Versión del proyecto: [p. ej., 1.0.0]
 ### Información adicional
-Cualquier otra información relevante.
+Cualquier otra información relevante que hay.
